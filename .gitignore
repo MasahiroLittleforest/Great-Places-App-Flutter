@@ -38,6 +38,7 @@ keys.dart
 **/android/gradlew.bat
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
+**/android/**/AndroidManifest.xml
 
 # iOS/XCode related
 **/ios/**/*.mode1v3
@@ -64,6 +65,7 @@ keys.dart
 **/ios/Flutter/flutter_assets/
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Runner/AppDelegate.*
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
